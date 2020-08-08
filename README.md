@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Darren
+
+- 🔭 I’m currently working with Terraform, AWS, Github Actions, Golang, Java, Spring Boot, ReactJS
+
+### Languages & Tools
 
 <!--
 **darren-rose/darren-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
