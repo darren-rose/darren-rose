@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Darren
 
-- 🔭 I’m currently working with Terraform, AWS, Github Actions, Golang, Java, Spring Boot, ReactJS
+- 🔭 I’m currently working with Git, Gradle, Java, Golang, Rust, Spring Boot, Docker, Kubernetes, EKS, Terraform, Terragrunt, AWS, ReactJS
 
 ### Languages & Tools
 
