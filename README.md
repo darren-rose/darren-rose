@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Darren
 
-- 🔭 I’m currently working with Git, Gradle, Java, Golang, Rust, Spring Boot, Docker, Kubernetes, EKS, Terraform, Terragrunt, AWS, ReactJS
-
-### Languages & Tools
+- 🔭 I'm currenly working with [Linux, MacOS, Git, Gradle, Java, Golang, Rust, ReactJS, VueJS, Spring Boot, Docker, Kubernetes, EKS, Terraform, Terragrunt, AWS]
+- 🌱 I’m currently learning Apache Airflow
+- 💬 Ask me about Kubernetes
+- ⚡ Fun fact: I use a mouse with my left or right hand
 
 <!--
 **darren-rose/darren-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
