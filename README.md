@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Apache Airflow
 - 💬 Ask me about Kubernetes
 - ⚡ Fun fact: I use a mouse with my left or right hand
-- [cv as pdf](https://github.com/darren-rose/darren-rose/blob/master/darrenrose.pdf)
+
 <!--
 **darren-rose/darren-rose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
