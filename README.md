@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Darren
 
-- 🔭 I'm currenly working with [Linux, MacOS, Git, Gradle, Java, Golang, Rust, ReactJS, VueJS, Spring Boot, Docker, Kubernetes, EKS, Terraform, Terragrunt, AWS]
+- 🔭 I work with Microsoft Azure, Amazon Web Services AWS, Kubernetes, EKS, AKS, Containers, Docker, Terraform, Terragrunt, Java, SpringBoot, NodeJS, NestJS, Git, Gradle, Golang, ReactJS
 - 🌱 I’m currently learning Apache Airflow
 - 💬 Ask me about Kubernetes
 - ⚡ Fun fact: I use a mouse with my left or right hand
