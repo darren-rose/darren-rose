@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Darren
 
 - 🔭 I work with Microsoft Azure, Amazon Web Services AWS, Kubernetes, EKS, AKS, Containers, Docker, Terraform, Terragrunt, Java, SpringBoot, NodeJS, NestJS, Git, Gradle, Golang, ReactJS
-- 🌱 I’m currently learning Apache Airflow
+- 🌱 I’m currently learning about LLM (large language models)
 - 💬 Ask me about Kubernetes
 - ⚡ Fun fact: I use a mouse with my left or right hand
 
